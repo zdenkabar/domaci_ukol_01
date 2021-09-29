@@ -1,8 +1,15 @@
 body {
     margin: 0 auto;
     max-width: 50em;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color:lightslategrey;
+    font-family: 'Trebuchet MS', sans-serif;
+    background-color:#CBCFD8;
 }
 
-h1 {color: #aa0000}
+h1 {
+    color: #4B4A58;
+    font-style: italic;
+}
+
+p {
+   line-height: 1.5;
+}
