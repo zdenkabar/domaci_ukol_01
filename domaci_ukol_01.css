@@ -1,6 +1,6 @@
 body {
     margin: 0 auto;
-    max-width: 50em;
+    max-width: 60em;
     font-family: 'Trebuchet MS', sans-serif;
     background-color:#CBCFD8;
 }
@@ -11,5 +11,16 @@ h1 {
 }
 
 p {
-   line-height: 1.5;
+   line-height: 1.5
+}
+
+header {
+    text-align: center
+}
+
+.omne img {
+  width: 300px;
+  border-radius: 10px;
+  float: right;
+  border: 2px solid #4B4A58;
 }
